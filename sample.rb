@@ -2,7 +2,7 @@ p 'hello world!'
 
 p 1 + 9
 
-signal = 'blue'
+signal = 'red'
 if signal == 'blue'
   p 'go'
 else
